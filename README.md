@@ -6,4 +6,4 @@ You can click the Preview link to take a look at your changes.
 - I am Second year student in Information Technology branch
 - My hobbies is play online games and basketBall
 - I am intersted in to learn about New Technologies
-- currently I am purusing BTech Form MLVTEC
+- Currently I am purusing BTech Form MLVTEC
