@@ -23,8 +23,8 @@ My journey in computer science has led me to develop a passion for WEB DEVELOPME
 ## Certifications
 
 <div>
-<img src="" />
-<img src="" />
+<img src="https://github.com/Sumitchouhan774/Sumitchouhan774/blob/main/Industrial%20Training%20Certificate%20(Sumit%20Chouhan%20)_page-0001.jpg" />
+<img src="https://github.com/Sumitchouhan774/Sumitchouhan774/blob/main/Internship%20Completion%20Certificate%20(Sumit%20Chouhan%20)_page-0001.jpg" />
 </div>
 
 ## Projects
