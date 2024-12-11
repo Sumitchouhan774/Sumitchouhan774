@@ -23,8 +23,8 @@ My journey in computer science has led me to develop a passion for WEB DEVELOPME
 ## Certifications
 
 <div>
-<img src="https://drive.google.com/file/d/1wOHnWd8JnOJm3eyPhY-EVtRnb7ecaFAH/view?usp=drivesdk" />
-<img src="https://drive.google.com/file/d/1BkZ9lE1twT8JdryYKYtngX4aa_oCDFEc/view?usp=drivesdk" />
+<img src="" />
+<img src="" />
 </div>
 
 ## Projects
