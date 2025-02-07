@@ -15,9 +15,9 @@ My journey in computer science has led me to develop a passion for WEB DEVELOPME
 | Skill                                         
 |-----------------------------------------------
 | Java Development: Java Programming 
-| Spring Boot: Expertise in rapid application development. 
-| Databases: MongoDB for data management. 
-| HTML, CSS, C (Basic)  
+| Frontend: JavaScript, React Js. 
+| Backend: Node Js, Express Js, Spring Boot.
+| Databases: MongoDB for data management, Postgre SQL. 
 | Tools: GitHub, IntelliJ, Vs Code, Postman. 
 
 ## Certifications
