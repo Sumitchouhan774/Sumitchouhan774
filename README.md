@@ -1,10 +1,7 @@
 # Hello, I'm SUMIT CHOUHAN.
 <a href="https://www.linkedin.com/in/sumit-chouhan-848674272/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
- Aspiring Backend & Frontend professional with practical experience gained
- through an AICTE-approved internship. Skilled in JAVA, SPRING BOOT, HTML
- & CSS.Strong understanding of Data Structure & Algorithm and a proven
- ability to work effectively in team environments to enhance working ability.
+ Full stack developer with expertise in front-end and back-end development, experienced in working with cross-functional teams.
 
 ## Objective
 
