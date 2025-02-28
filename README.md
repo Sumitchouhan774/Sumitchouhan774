@@ -23,6 +23,3 @@ My journey in computer science has led me to develop a passion for WEB DEVELOPME
 <img src="https://github.com/Sumitchouhan774/Sumitchouhan774/blob/main/Internship%20Completion%20Certificate%20(Sumit%20Chouhan%20)_page-0001.jpg" height = "300" width = "300" />
 <img src="https://github.com/Sumitchouhan774/Sumitchouhan774/blob/main/Industrial%20Training%20Certificate%20(Sumit%20Chouhan%20)_page-0001.jpg" height = "300" width ="300" />
 </div>
-
-## Projects
-- E-Commerce Website
