@@ -11,11 +11,12 @@ My journey in computer science has led me to develop a passion for WEB DEVELOPME
 
 | Skill                                         
 |-----------------------------------------------
-| Java Development: Java Programming 
-| Frontend: JavaScript, React Js. 
+| Programming Languages: Java, C, JavaScript. 
+| Frontend: Next Js, React Js. 
 | Backend: Node Js, Express Js, Spring Boot.
-| Databases: MongoDB for data management, Postgre SQL. 
-| Tools: GitHub, IntelliJ, Vs Code, Postman. 
+| Databases: MongoDB, Postgre SQL. 
+| DevOps Tools: Docker. 
+| Tools: Figma, Adobe Express, Canva GitHub, Git, Postman. 
 
 ## Certifications
 
